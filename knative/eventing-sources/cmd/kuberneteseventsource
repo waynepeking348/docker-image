@@ -1,0 +1,1 @@
+from gcr.io/knative-releases/github.com/knative/eventing-sources/cmd/kuberneteseventsource@sha256:cc1753b06188c7924a9279368bdcf1e099c517d8a97d5cf9d1089ec1dfe02390
