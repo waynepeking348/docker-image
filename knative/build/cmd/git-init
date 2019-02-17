@@ -1,0 +1,1 @@
+from gcr.io/knative-releases/github.com/knative/build/cmd/git-init@sha256:e6ffa2a922cdea55d51d8648b5b07435d5598ebb6789849c41802de63e7324a9
