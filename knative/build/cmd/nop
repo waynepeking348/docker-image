@@ -1,0 +1,1 @@
+from gcr.io/knative-releases/github.com/knative/build/cmd/nop@sha256:915db860d1bf101322f35b06e963a1dcc00e9c1beeecfaaef650db4e45364e61
