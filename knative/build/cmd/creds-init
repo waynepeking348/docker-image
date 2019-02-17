@@ -1,0 +1,1 @@
+from gcr.io/knative-releases/github.com/knative/build/cmd/creds-init@sha256:22b3a971c3d1d5529ca16f6b6d168ba03c1f3bcb0744271ff8882374fd3b6fdb
