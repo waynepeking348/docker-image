@@ -1,1 +1,1 @@
-from image: gcr.io/knative-releases/github.com/knative/serving/cmd/autoscaler@sha256:9d2db2ba2607b46af18a79c7cdf532d84b0aac34c1a418d6d4a239f8d8271566
+from gcr.io/knative-releases/github.com/knative/serving/cmd/autoscaler@sha256:9d2db2ba2607b46af18a79c7cdf532d84b0aac34c1a418d6d4a239f8d8271566
